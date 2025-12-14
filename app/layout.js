@@ -26,7 +26,9 @@ export default function RootLayout({ children }) {
         </main>
 
         <footer className="bg-gray-100 p-4 text-center text-sm text-gray-600">
-          Built by Srilakshmi — Course Manager Scaffold
+          Built by Srilakshmi — Course Manager Scaffold <br />
+          Github Profile — https://github.com/Srilakshmide <br />
+          LinkedIn profile — www.linkedin.com/in/srilakshmi-durga-saladi-76013b261
         </footer>
       </body>
     </html>
